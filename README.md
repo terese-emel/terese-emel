@@ -1,4 +1,4 @@
-# Hi, I'm Emel 👋
+# Hi, I'm Terese 👋
 
 ### QA Automation Engineer → Frontend Developer
 
