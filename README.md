@@ -80,15 +80,14 @@ I see AI as an engineering accelerator — with the developer still responsible 
 
 `React + TypeScript` · `Playwright` · `Frontend Architecture` · `Component Design` · `API Testing` · `CI/CD` · `AI-assisted Development`
 
----
-
-## 🔨 What You'll Find Here
+---## 🔨 What You'll Find Here
 
 - ⚛️ React & TypeScript
-- 🎭 Playwright automation
+- 🎭 Playwright and cypress automation
 - 🧪 QA engineering and API testing
 - 🏗️ Frontend architecture
 - 🤖 AI-assisted development
+- 🧠 Agentic workflows with Claude and Codex
 
 ---
 
