@@ -1,97 +1,62 @@
 # Hi, I'm Terese 👋
 
-### QA Automation Engineer bringing a quality-first mindset to AI-assisted full stack development with React, Node.js and TypeScript | Playwright and Cypress
+### Fullstack Software Engineer with a QA automation foundation
 
-I'm a software engineer based in **Stockholm, Sweden**, with **12+ years of experience in software quality, testing and automation**, alongside hands-on full stack development with **React.js and TypeScript and node.js**.
+I build and test healthcare software with **React, TypeScript and Node.js**. Since moving into fullstack product development in 2020, I have worked across user-facing workflows, service/API behaviour, data flows and automated quality checks. Before that, I worked in QA, software testing and test automation.
 
-I enjoy working across the development lifecycle — understanding requirements, building features, finding risks early, automating tests and helping teams ship reliable software.
+My focus is practical: build useful features, find risks early, make integrations reliable and leave teams with fast feedback in CI.
 
----
+## What I work with
 
-## 👩‍💻 About Me
+### Fullstack development
 
-- 🧪 **12+ years of experience** in Quality Assurance and Software Testing
-- 🎭 Building and maintaining automated tests with **Playwright + TypeScript**
-- ⚛️ Hands-on frontend development using **React + TypeScript**
-- 🔌 Experience with **API testing and integration testing**
-- 🏗️ Interested in maintainable architecture, reusable components and testable code
-- 🤖 Using **AI-assisted development and testing** in my daily engineering workflow
-- 📍 Based in **Stockholm, Sweden**
-- 💼 Open to opportunities in **QA, Test Automation, Quality Engineering and Fullstack Development**
+`React` `TypeScript` `JavaScript` `Node.js` `HTML5` `CSS3` `SCSS`
 
----
+- Frontend features for caregiver, patient and admin workflows
+- Component behaviour, state handling, validation and user-flow consistency
+- Node.js service-side contribution, API behaviour, data flows and error handling
+- Schema and contract updates, backend tests and integration reliability
+- Screens built from Figma designs and components added to Storybook
 
-## 🛠️ Tech Stack
+### QA automation and quality engineering
 
-### Testing & Quality Engineering
+`Playwright` `Cypress` `Katalon Studio` `Sikuli IDE` `Postman` `Charles Proxy`
 
-`Playwright` `Cypress` `Selenium` `Katalon` `Postman` `Charles`
+- End-to-end, smoke, regression, exploratory, cross-browser and API testing
+- Automated tests for microservices and external healthcare integrations
+- Test data management, test plans, test reports and test strategy documentation
+- Flaky-test investigation, root-cause analysis and regression-risk reduction
+- Accessibility testing to WCAG 2.1 AA using manual review with Mac accessibility tools
+- Software as a Medical Device (SaMD) testing experience
 
-- End-to-End Testing
-- API Testing
-- Regression Testing
-- Exploratory Testing
-- Test Strategy
-- CI/CD Testing
-- Cross-browser Testing
-- Debugging & Root Cause Analysis
+### Delivery and integration
 
-### Fullstack Development
+`Jenkins` `Groovy` `Git` `GitHub workflows` `Docker` `Kubernetes` `RabbitMQ` `Kibana`
 
-`Reactjs` `TypeScript` `JavaScript` `HTML` `CSS` `Vite` `Nodejs` 
+I have maintained Jenkins/Groovy pipeline and GitHub workflow files, tested containerised microservices, validated RabbitMQ messaging and used Kibana for log analysis, monitoring and troubleshooting.
 
-I work with component-based Fullstack development while applying a strong quality mindset around reusability, accessibility, testability, edge cases, user experience and maintainability.
+## Selected impact
 
-### CI/CD & Engineering Tools
+- Converted more than **100 Cypress tests to Playwright** and continued stabilising critical user journeys.
+- Contributed to approximately **30% fewer critical production regression defects** through early automation and API validation.
+- Helped the team reduce manual regression time by approximately **40% per release**.
+- Contributed across healthcare workflows including appointments, patient questionnaires, caregiver cases, administration and payment-related flows.
 
-`Git` `GitHub` `Jenkins` `AWS CodePipeline` `Jira` `TestRail`
+## How I work
 
----
+I treat quality as part of development rather than a final checkpoint. When I work on a feature, I think about user behaviour, edge cases, accessibility, testability, integration points and what could fail in production.
 
-## 🎭 Playwright & Test Automation
+I also use AI-assisted development and testing with **GitHub Copilot, Claude, OpenCode and ChatGPT** for drafting tests, debugging, refactoring and React/TypeScript development. I review and validate generated code before it becomes part of the work.
 
-One of my main areas of focus is building reliable and maintainable automation using **Playwright and TypeScript**. I prefer stable selectors such as accessible roles and dedicated test IDs, with readable, reusable tests that are reliable in CI.
+Separately, I work on personal **agentic workflow design** with skills, commands, rules and workflows in **Claude Code and Codex**.
 
----
+## Currently interested in
 
-## 🚀 Automation Impact
+`React + TypeScript` · `Node.js` · `Playwright` · `Cypress` · `API testing` · `CI-integrated quality engineering` · `Healthcare software`
 
-In one recent project, the automated regression suite grew from around **20 automated test cases to more than 100**, significantly increasing coverage and reducing repetitive manual regression testing. My goal is fast, reliable feedback when something breaks.
+I am open to English-language opportunities in **fullstack development, QA automation and quality engineering** in the Stockholm area or Europe-eligible remote teams.
 
----
-
-## ⚛️ Frontend + QA
-
-When building a feature, I'm already thinking about user interaction, edge cases, testability, reusability, accessibility, regression risk and production behaviour. I believe quality works best when it is part of development rather than something added at the end.
-
----
-
-## 🤖 AI-Assisted Engineering
-
-I use AI tools for test-case generation, Playwright automation, debugging, code review, refactoring, frontend development, exploring edge cases and improving documentation.
-
-`ChatGPT` `Claude` `GitHub Copilot` `OpenCode`
-
-I see AI as an engineering accelerator — with the developer still responsible for validating implementation, architecture and quality.
-
----
-
-## 🌱 Current Focus
-
-`React + TypeScript` · `Playwright` · `Frontend Architecture` · `Component Design` · `API Testing` · `CI/CD` · `AI-assisted Development`
-
-## 🔨 What You'll Find Here
-
-- ⚛️ React & TypeScript
-- 🎭 Playwright and cypress automation
-- 🧪 QA engineering and API testing
-- 🏗️ Frontend architecture
-- 🤖 AI-assisted development
-- 🧠 Agentic workflows with Claude and Codex
-
----
-
-## 🤝 Let's Connect
+## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Terese%20Emel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/terese-emel)
 
@@ -99,4 +64,4 @@ I see AI as an engineering accelerator — with the developer still responsible 
 
 ---
 
-### Build it. Test it. Break it. Improve it. 🚀
+### Build it. Test it. Understand it. Improve it. 🚀
