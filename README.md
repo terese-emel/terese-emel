@@ -56,6 +56,14 @@ Separately, I work on personal **agentic workflow design** with skills, commands
 
 I am open to English-language opportunities in **fullstack development, QA automation and quality engineering** in the Stockholm area or Europe-eligible remote teams.
 
+## Featured project
+
+### [Grocery Compare](https://github.com/terese-emel/grocery-compare)
+
+A fullstack learning project for comparing grocery prices across shops and finding the cheapest option. It combines a **React frontend**, **Koa REST API**, **MongoDB/Mongoose persistence**, product validation and automated backend tests.
+
+The project includes product search and sorting, cheapest-price lookup including ties, CRUD operations, loading and error states, layered backend structure, API tests and integration tests with temporary MongoDB.
+
 ## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Terese%20Emel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/terese-emel)
