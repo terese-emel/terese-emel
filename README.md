@@ -1,8 +1,8 @@
 # Hi, I'm Terese 👋
 
-### QA Engineer | Test Automation | Frontend Development
+### QA Automation Engineer bringing a quality-first mindset to AI-assisted full stack development with React, Node.js and TypeScript | Playwright and Cypress
 
-I'm a software engineer based in **Stockholm, Sweden**, with **12+ years of experience in software quality, testing and automation**, alongside hands-on frontend development with **React and TypeScript**.
+I'm a software engineer based in **Stockholm, Sweden**, with **12+ years of experience in software quality, testing and automation**, alongside hands-on full stack development with **React.js and TypeScript and node.js**.
 
 I enjoy working across the development lifecycle — understanding requirements, building features, finding risks early, automating tests and helping teams ship reliable software.
 
@@ -17,7 +17,7 @@ I enjoy working across the development lifecycle — understanding requirements,
 - 🏗️ Interested in maintainable architecture, reusable components and testable code
 - 🤖 Using **AI-assisted development and testing** in my daily engineering workflow
 - 📍 Based in **Stockholm, Sweden**
-- 💼 Open to opportunities in **QA, Test Automation, Quality Engineering and Frontend Development**
+- 💼 Open to opportunities in **QA, Test Automation, Quality Engineering and Fullstack Development**
 
 ---
 
@@ -36,11 +36,11 @@ I enjoy working across the development lifecycle — understanding requirements,
 - Cross-browser Testing
 - Debugging & Root Cause Analysis
 
-### Frontend Development
+### Fullstack Development
 
-`React` `TypeScript` `JavaScript` `HTML` `CSS` `Vite`
+`Reactjs` `TypeScript` `JavaScript` `HTML` `CSS` `Vite` `Nodejs` 
 
-I work with component-based frontend development while applying a strong quality mindset around reusability, accessibility, testability, edge cases, user experience and maintainability.
+I work with component-based Fullstack development while applying a strong quality mindset around reusability, accessibility, testability, edge cases, user experience and maintainability.
 
 ### CI/CD & Engineering Tools
 
