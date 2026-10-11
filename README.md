@@ -56,12 +56,6 @@ Separately, I work on personal **agentic workflow design** with skills, commands
 
 I am open to English-language opportunities in **fullstack development, QA automation and quality engineering** in the Stockholm area or Europe-eligible remote teams.
 
-## Portfolio examples
-
-- [Appointment Flow Demo](projects/appointment-flow-demo) - cross-layer React, TypeScript and Node.js workflow example
-- [Quality Gates Demo](projects/quality-gates-demo) - Playwright tests for a critical user journey
-- [API Integration Checks](projects/api-integration-checks) - response-contract and error-handling examples
-
 ## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Terese%20Emel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/terese-emel)
