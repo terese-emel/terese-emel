@@ -31,9 +31,15 @@ My focus is practical: build useful features, find risks early, make integration
 
 ### Delivery and integration
 
-`Jenkins` `Groovy` `Git` `GitHub workflows` `Docker` `Kubernetes` `RabbitMQ` `Kibana`
+`Jenkins` `Groovy` `Git` `GitHub workflows` `Docker` `Kubernetes` `RabbitMQ` `Kibana` 
 
 I have maintained Jenkins/Groovy pipeline and GitHub workflow files, tested containerised microservices, validated RabbitMQ messaging and used Kibana for log analysis, monitoring and troubleshooting.
+
+### Monitoring
+
+`Grafana` `Prometheus`
+
+Built Grafana/Prometheus monitoring dashboards to track system health and surface actionable alerts.
 
 ## Selected impact
 
